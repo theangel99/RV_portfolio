@@ -1,0 +1,7 @@
+Mobile projects:
+- ToDo App (Android)
+- Weather App
+- Simple Chat App (if possible cross platform)
+- Task manager App
+- Fitness Tracker
+- 
